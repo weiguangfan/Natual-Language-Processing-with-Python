@@ -1,0 +1,8 @@
+Accurately measure brand coverage
+Accurately report on brand coverage by training a custom model to find client logos and products. This makes it easy to calculate impressions, instead of painstakingly trying to follow traditional and social media with manual processes.
+
+Easily find content
+Automatically generate a relevant list of images from thousands of sports images. You can train a custom model to identify sports events (for example, goals scored, penalties, and injuries) or identify teams and players by jersey (team logo and number).
+
+Improve operational efficiency
+Train a custom model that automatically classifies important objects (for example, tomatoes, pallets, and products) into relevant categories that you define.
